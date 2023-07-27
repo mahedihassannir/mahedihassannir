@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react js**
 
-- 💬 Ask me about **about html css js tailwind bootstrape reactjs**
+- 💬 Ask me about **about MERN And Creative Ideas**
 
 - 📫 How to reach me **mahedinir34678@gmail.com**
 
